@@ -5,13 +5,15 @@
 - Material AISI 1020
 - Límite de elasticidad del material 200, 000 N/mm2
 
-![image.png](Proyecto_Polea_JEVG_files/image.png)
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/491f286b-c535-4336-b657-466c0c166091)
 
 - Fabricación de acuerdo con las medidas de D1, D2, Ancho y Radio de la garganta
 
-![image-2.png](Proyecto_Polea_JEVG_files/image-2.png)
-![image-3.png](Proyecto_Polea_JEVG_files/image-3.png)
-![image-4.png](Proyecto_Polea_JEVG_files/image-4.png)
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/4a018acd-b012-4b89-9329-c5a99319f6c9)
+
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/00f47d76-a0d9-437f-a9d4-d130988b5478)
+
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/d9c56cc0-8674-47a8-a5d0-2a201003d22a)
 
 
 ```python
@@ -6743,14 +6745,15 @@ print("Esfuerzo flector correspondiente:", flector)
 
 
 ### Análisis estático para verificar que se cumpla la resitencia a la carga
-![image-2.png](Proyecto_Polea_JEVG_files/image-2.png)
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/0d4a975b-0c58-4324-bee2-dabd9afb68ca)
+
 
 ### definición de los parámetros: variables, restricciones y objetivo
-![image.png](Proyecto_Polea_JEVG_files/image.png)
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/f14a7390-8a05-4272-b97c-73cc98630567)
 
 
 # RESULTAADO
-![image-3.png](Proyecto_Polea_JEVG_files/image-3.png)
+![image](https://github.com/JoseEmmanuelVG/DAMAC_DifferentialEvolution_Optimization/assets/89156254/a65c33d7-d284-445e-83a3-168c4681a4f5)
 
 # ANALISIS DE RESULTADOS
 ### Comparación de Resultados
